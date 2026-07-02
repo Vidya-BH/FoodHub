@@ -126,6 +126,7 @@ Back to My Orders
 </a>
 
 </div>
+<script src="js/logout.js"></script>
 
 </body>
 

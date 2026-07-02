@@ -49,12 +49,12 @@
         </li>
 
         <li>
+<a href="LogoutServlet"
+   onclick="return confirmLogout()">
 
-            <a href="LogoutServlet">
+    Logout
 
-                Logout
-
-            </a>
+</a>
 
         </li>
 

@@ -167,6 +167,7 @@ Delete
 %>
 
 </div>
+<script src="js/logout.js"></script>
 
 </body>
 

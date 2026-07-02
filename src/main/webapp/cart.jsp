@@ -224,7 +224,9 @@ value="plus">
 
 <td>
 
-<form action="RemoveCartServlet" method="post">
+<form action="RemoveCartServlet"
+      method="post"
+      onsubmit="return confirmRemove()">
 
 <input type="hidden"
 name="menuId"
@@ -281,6 +283,8 @@ Proceed To Checkout
 %>
 
 </div>
+<script src="js/logout.js"></script>
+<script src="js/remove.js"></script>
 
 </body>
 

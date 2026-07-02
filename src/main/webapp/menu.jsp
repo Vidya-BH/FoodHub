@@ -134,6 +134,7 @@ Add To Cart
 </p>
 
 </footer>
+<script src="js/logout.js"></script>
 
 </body>
 </html>
